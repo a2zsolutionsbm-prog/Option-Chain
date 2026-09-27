@@ -1,0 +1,6 @@
+{
+  "name": "DigiService Option Chain Pro",
+  "description": "Commercial-grade real-time options trading analytics platform featuring live option chain, Black-Scholes Greeks, OI buildup, PCR & Max Pain analysis, TradingView charts, and strategy builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
